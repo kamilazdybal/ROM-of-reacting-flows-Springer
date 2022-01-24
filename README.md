@@ -6,6 +6,6 @@ This repository contains programming examples shown in the book chapter:
 
 You can access the Jupyter notebook through:
 
-- [![Binder](https://mybinder.org/badge_logo.svg)]([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kamilazdybal/ROM-of-reacting-flows-Springer/main?labpath=PCAfold-programming-examples.ipynb))
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kamilazdybal/ROM-of-reacting-flows-Springer/main?labpath=PCAfold-programming-examples.ipynb)
 
 - [**nbviewer**](https://nbviewer.org/github/kamilazdybal/ROM-of-reacting-flows-Springer/blob/main/PCAfold-programming-examples.ipynb)
