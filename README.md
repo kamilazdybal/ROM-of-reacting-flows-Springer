@@ -1,8 +1,10 @@
-# Programming examples for *Reduced-order modeling of reacting flows using data-driven approaches*
+# Programming examples for [*Reduced-order modeling of reacting flows using data-driven approaches*](https://link.springer.com/chapter/10.1007/978-3-031-16248-0_9)
 
-This repository contains programming examples shown in the book chapter:
+This repository contains programming examples shown in the open-access book chapter:
 
-> K. Zdybał, M. R. Malik, A. Coussement, J. C. Sutherland, A. Parente, *Reduced-order modeling of reacting flows using data-driven approaches* (2022) Springer.
+> K. Zdybał, M. R. Malik, A. Coussement, J. C. Sutherland, A. Parente, *Reduced-order modeling of reacting flows using data-driven approaches* (2023) Springer.
+
+The book chapter PDF can be downloaded [here](https://link.springer.com/content/pdf/10.1007/978-3-031-16248-0_9.pdf?pdf=inline%20link).
 
 You can access the Jupyter notebook through:
 
