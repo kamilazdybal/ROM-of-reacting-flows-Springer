@@ -1,3 +1,5 @@
+This repository is licensed under: [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 # Programming examples for [*Reduced-order modeling of reacting flows using data-driven approaches*](https://link.springer.com/chapter/10.1007/978-3-031-16248-0_9)
 
 This repository contains programming examples shown in the open-access book chapter:
